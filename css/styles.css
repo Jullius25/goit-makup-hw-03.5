@@ -1,0 +1,1840 @@
+:root {
+    --color-primario: #ffffff;
+}
+
+.text {
+    
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    background-color: white;
+    
+}
+
+.fuente-bold {
+    font-weight: bold;
+}
+
+.enlaces-aside {
+    color: var(--color-primario);
+}
+
+.enlaces-aside:hover {
+    color: red;
+}
+
+.enlaces-nav {
+    color: white;
+    cursor: crosshair;
+}
+
+.enlaces-nav:hover {
+    color: orangered;
+}
+
+#main-content {
+/* Pie de página bg */
+
+
+    position: 
+    width: 1600px;
+    height: 252px;
+    left: 0px;
+    top: 2158px;
+
+    background: #2F303A;
+
+}
+#main-contentxd {
+    /* Pie de página bg */
+
+
+    position:
+        width: 1600px;
+    height: 352px;
+    left: 25px;
+    top: 0px;
+
+    background: #2F303A;
+
+}
+
+button {
+    background-color: var(--color-primario);
+}
+
+button:active {
+    background-color: #2196F3;
+    color: rgb(255, 255, 255);
+}
+
+main>p {
+    background-color: rgba(28, 30, 105, 50);
+}
+
+.enlaces-aside {
+
+    color: #2196F3
+}
+
+.enlaces-nav {
+
+    color: rgb(196, 194, 194);
+    font-weight: bold;
+}
+.enlaces-aside2 { 
+    color: black
+}
+.enlaces-aside3 {
+    color: #757575;
+}
+
+
+main>p {
+    position: absolute;
+    width: 135px;
+    height: 16px;
+    left: 516px;
+    top: 1703px;
+
+   font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+
+}
+#main-estudio {
+    /* Estudio */
+        position: absolute;
+        width: 49px;
+        height: 16px;
+        left: 453px;
+        top: 32px;
+    
+        font-family: 'Roboto', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 16px;
+        letter-spacing: 0.02em;
+        color: #2196F3;
+}
+
+#main-portafolio {
+    /* Portafolio */
+    
+     
+        position: absolute;
+        width: 65px;
+        height: 16px;
+        left: 552px;
+        top: 32px;
+    
+        font-family: 'Roboto', sans-serif;
+            text-decoration: none;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 16px;
+        letter-spacing: 0.02em;
+        color: #212121;
+}
+
+#main-contactos {
+    /* Сontactos */
+    
+    
+        position: absolute;
+        width: 67px;
+        height: 16px;
+        left: 667px;
+        top: 32px;
+    
+        font-family: 'Roboto', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 16px;
+        letter-spacing: 0.02em;
+
+        color: #212121;
+}
+#main-info {
+    /* info@devstudio.com */
+        position: absolute;
+        width: 135px;
+        height: 16px;
+        left: 1078px;
+        top: 32px;
+    text-decoration: none;
+        font-family: 'Roboto', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 16px;
+        letter-spacing: 0.02em;
+        color: #2196F3;
+}
+.sobres {
+         position: absolute;
+        width: 58px;
+        height: 55px;
+        left: 63.45%;
+        right: 33.25%;
+        top: 30px;
+        bottom: 97.55%;
+}
+
+.telefonito {
+    position: absolute;
+        width: 58px;
+        height: 55px;
+        left: 75.25%;
+        right: 33.25%;
+        top: 27px;
+        bottom: 97.55%;
+}
+ 
+
+#main-tel {
+    /* +52 55 5529 6000 */
+        position: absolute;
+        width: 118px;
+        height: 16px;
+        left: 1263px;
+        top: 32px;
+    
+    font-family: 'Roboto', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 16px;
+        letter-spacing: 0.02em;
+    
+        color: #757575;
+}
+#main-content2 {
+
+     
+        position: absolute;
+        
+            
+            left: 215px;
+            top: 2190px;
+        left: 215px;
+    font-family: 'Roboto', sans-serif;
+}
+
+#main-content3 {
+        position: absolute;
+        
+            
+            left: 215px;
+            top: 1920px;
+        left: 215px;
+    font-family: 'Roboto', sans-serif;
+}
+
+#main-contenido {
+/* Estudio Web */
+
+
+    position: absolute;
+    width: 145px;
+    height: 31px;
+    left: 215px;
+    top: 24px;
+box-sizing: border-box;
+    font-family: 'Raleway', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    /* identical to box height */
+
+    text-align: right;
+    letter-spacing: 0.03em;
+
+    color: #2196F3;
+}
+#webs {
+    font-family: 'Raleway', sans-serif;
+}
+
+#main-tituloxd {
+    /* SOLUCIONES EFICACES PARA SU NEGOCIO */
+        position: absolute;
+        width: 696px;
+        height: 120px;
+        left: 450px;
+        top: 200px;
+    
+        font-family: 'Roboto', sans-serif;
+        font-style: normal;
+        font-weight: 900;
+        font-size: 35px;
+        line-height: 60px;
+        /* or 136% */
+    
+        text-align: center;
+        letter-spacing: 0.06em;
+        text-transform: uppercase;
+    
+        color: #ffffff;;
+}
+.item {
+    /* Bg */
+    position: absolute;
+    width: 1640px;
+    height: 600px;
+    top: 80px;
+
+    background: #2F303A;
+}
+
+.item2 {
+    /* Frame 1 */
+        /* Auto layout */
+    
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        padding: 10px 32px;
+        gap: 10px;
+    
+        position: absolute;
+        width: 200px;
+        height: 30px;
+        left: 666px;
+        top: 430px;
+    
+        background: #2196F3;
+ 
+}
+
+#main-boton {
+    /* Solicite nuestro servicio */
+    
+    
+        position: absolute;
+            width: 696px;
+            height: 120px;
+            left: 448px;
+            top: 450px;
+        
+        font-family: 'Roboto', sans-serif;
+            font-style: normal;
+            font-weight: 700;
+            font-size: 16px;
+            line-height: 30px;
+            /* or 136% */
+        
+            text-align: center;
+            letter-spacing: 0.06em;
+            text-transform: uppercase;
+        
+            color: #ffffff;
+            ;
+}
+#main-con {
+
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
+
+.social-bar {
+    position: fixed;
+    right: 0;
+    top: 35%;
+    font-size: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    z-index: 100;
+}
+
+
+
+
+.estudio &nbsp;
+
+    {
+    display: inline;
+    margin-right: 100px;
+}
+
+.portafolio &nbsp;
+
+    {
+    display: inline;
+    margin-right: 100px;
+}
+
+.contactos &nbsp;
+
+    {
+    display: inline;
+    margin-right: 100px;
+}
+
+.todo &nbsp;
+
+    {
+    display: inline;
+    margin-right: 100px;
+    
+}
+
+
+
+.contenedor-textos {
+    /* ATENCIÓN A LOS DETALLES */
+        position: absolute;
+        width: 270px;
+        height: 95px;
+        left: 215px;
+        top: 801px;
+    
+        font-family: 'Roboto', sans-serif;
+            font-style: normal;
+            font-weight: 400;
+            font-size: 14px;
+            line-height: 24px;
+            /* or 171% */
+        
+            letter-spacing: 0.03em;
+            color: #000000;
+}
+
+.contenedor-textos2 {
+    /* Con nosotros, usted puede sentirse seguro y protegido. Un principio importante de la empresa: respetar su tiempo y respetar los plazos acordados. */
+        position: absolute;
+        width: 270px;
+        height: 96px;
+        left: 515px;
+        top: 801px;
+    
+        font-family: 'Roboto', sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 24px;
+        /* or 171% */
+
+        letter-spacing: 0.03em;
+        color: #757575;
+}
+
+.contenedor-textos3 { 
+    /* Usted podrá observar y participar en cada fase del desarrollo y aplicación de soluciones. */
+    
+    
+        position: absolute;
+        width: 270px;
+        height: 75px;
+        left: 815px;
+        top: 801px;
+    
+        font-family: 'Roboto', sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 24px;
+        /* or 171% */
+    
+        letter-spacing: 0.03em;
+    
+        color: #000000;
+}
+
+.contenedor-textos4 {
+    /* Usamos herramientas innovadoras para resolver las tareas asignadas. Es hora de simplificar los procesos laborales. */
+        position: absolute;
+        width: 270px;
+        height: 75px;
+        left: 1115px;
+        top: 801px;
+    
+        font-family: 'Roboto', sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 24px;
+        /* or 171% */
+    
+        letter-spacing: 0.03em;
+    
+        color: #000000;
+}
+#main-textoo {
+    /* Nos adentramos en todos los detalles y procesos de su negocio, para así desarrollar una solución a su medida. */
+    
+    
+        position: absolute;
+        width: 270px;
+        height: 75px;
+        left: 215px;
+        top: 801px;
+    
+        font-family: 'Roboto', sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 24px;
+        /* or 171% */
+    
+        letter-spacing: 0.03em;
+    
+        color: #757575;
+}
+
+#main-texto2 {
+/* Con nosotros, usted puede sentirse seguro y protegido. Un principio importante de la empresa: respetar su tiempo y respetar los plazos acordados. */
+
+
+    position: absolute;
+    width: 270px;
+    height: 96px;
+    left: 515px;
+    top: 801px;
+
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    /* or 171% */
+
+    letter-spacing: 0.03em;
+    color: #757575;
+}
+
+#main-texto3 {
+/* Usted podrá observar y participar en cada fase del desarrollo y aplicación de soluciones. */
+
+
+    position: absolute;
+    width: 270px;
+    height: 75px;
+    left: 815px;
+    top: 801px;
+
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    /* or 171% */
+
+    letter-spacing: 0.03em;
+
+    color: #757575;
+}
+
+#main-texto4 {
+/* Usamos herramientas innovadoras para resolver las tareas asignadas. Es hora de simplificar los procesos laborales. */
+
+
+    position: absolute;
+    width: 270px;
+    height: 75px;
+    left: 1115px;
+    top: 801px;
+
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    /* or 171% */
+
+    letter-spacing: 0.03em;
+
+    color: #757575;
+}
+
+#main-dedi {
+    /* A qué nos dedicamos */
+    
+    
+        position: 
+        width: 371.15px;
+        height: 46.24px;
+        left: 619.43px;
+        top: 991px;
+    
+        font-family: 'Roboto', sans-serif;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 25px;
+        line-height: 42px;
+        text-align: center;
+        letter-spacing: 0.03em;
+    
+        color: #212121;
+}
+
+#Nuestroe {
+    /* Nuestro Equipo */
+    
+    
+        position: absolute;
+        width: 263px;
+        height: 42px;
+        left: 669px;
+        top: 1560px;
+    
+        font-family: 'Roboto', sans-serif;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 20px;
+        line-height: 42px;
+        text-align: center;
+        letter-spacing: 0.03em;
+    
+        color: #212121;
+}
+
+
+.rectangulo {
+    /* tarjeta bg */
+    
+    
+        position: absolute;
+        width: 270px;
+        height: 368px;
+        left: 208px;
+        top: 1696px;
+    
+        background: #FFFFFF;
+        /* material shadow v1 */
+    
+        box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 2px 1px rgba(0, 0, 0, 0.2);
+        border-radius: 0px 0px 4px 4px;
+}
+
+.rectangulo4 {
+    /* tarjeta bg */
+    
+    
+        position: absolute;
+        width: 270px;
+        height: 368px;
+        left: 515px;
+        top: 1696px;
+    
+        background: #FFFFFF;
+        /* material shadow v1 */
+    
+        box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 2px 1px rgba(0, 0, 0, 0.2);
+        border-radius: 0px 0px 4px 4px;
+}
+.rectangulo3 { 
+    /* tarjeta bg */
+    
+    
+        position: absolute;
+        width: 270px;
+        height: 368px;
+        left: 822px;
+        top: 1696px;
+    
+        background: #FFFFFF;
+        /* material shadow v1 */
+    
+        box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 2px 1px rgba(0, 0, 0, 0.2);
+        border-radius: 0px 0px 4px 4px;
+}
+.rectangulo2 {
+    /* tarjeta bg */
+        position: absolute;
+        width: 270px;
+        height: 368px;
+        left: 1115px;
+        top: 1696px;
+    
+        background: #FFFFFF;
+        /* material shadow v1 */
+    
+        box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 2px 1px rgba(0, 0, 0, 0.2);
+        border-radius: 0px 0px 4px 4px;
+}
+#andres {
+    /* Andrés Cubo */
+    
+    
+        position: absolute;
+        width: ;
+        height: 19px;
+        left: 295px;
+        top: 1960px;
+    
+        font-family: 'Roboto', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 19px;
+        /* identical to box height */
+    
+        text-align: center;
+        letter-spacing: 0.03em;
+    
+        color: #212121;
+}
+#diseñador {
+    /* Diseñador de Productos */
+    
+    
+        position: absolute;
+        width: ;
+        height: 19px;
+        left: 253px;
+        top: 2015px;
+    
+        font-family: 'Roboto', sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 19px;
+        /* identical to box height */
+    
+        text-align: center;
+        letter-spacing: 0.03em;
+    
+        color: #757575;
+}
+
+#Carla { 
+/* Carla Palacios */
+
+
+    position: absolute;
+    width: 
+    height: 19px;
+    left: 596px;
+    top: 1960px;
+
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+
+    text-align: center;
+    letter-spacing: 0.03em;
+
+    color: #212121;
+
+}
+#desarroladora { 
+    /* Desarrolladora Frontend */
+        position: absolute;
+        width: 
+        height: 19px;
+        left: 559px;
+        top: 2015px;
+    
+        font-family: 'Roboto', sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 19px;
+        /* identical to box height */
+    
+        text-align: center;
+        letter-spacing: 0.03em;
+    
+        color: #757575;
+}
+
+#mario {
+    /* Mario Dorado */
+    
+    
+        position: absolute;
+        width: 
+        height: 19px;
+        left: 906px;
+        top: 1960px;
+    
+        font-family: 'Roboto', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 19px;
+        /* identical to box height */
+    
+        text-align: center;
+        letter-spacing: 0.03em;
+    
+        color: #212121;
+}
+#marketing {
+    /* Marketing */
+    
+    
+        position: absolute;
+        width: 76px;
+        height: 19px;
+        left: 919px;
+        top: 2015px;
+    
+        font-family: 'Roboto', sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 19px;
+        /* identical to box height */
+    
+        text-align: center;
+        letter-spacing: 0.03em;
+    
+        color: #757575;
+}
+
+#pablo {
+    /* Pablo Mijangos */
+    
+    
+        position: absolute;
+        width: 
+        height: 19px;
+        left: 1191px;
+        top: 1960px;
+    
+        font-family: 'Roboto', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 19px;
+        /* identical to box height */
+    
+        text-align: center;
+        letter-spacing: 0.03em;
+    
+        color: #212121;
+}
+
+#diseñador2 { 
+    /* Diseñador IU */
+    
+    
+        position: absolute;
+        width: 
+        height: 19px;
+        left: 1202px;
+        top: 2015px;
+    
+    font-family: 'Roboto', sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 19px;
+        /* identical to box height */
+    
+        text-align: center;
+        letter-spacing: 0.03em;
+    
+        color: #757575;
+}
+
+
+.contenedor img {
+/* imagen */
+    position: absolute;
+    width: 373.16px;
+    height: 323.7px;
+    left: 215px;
+    top: 1092.3px;
+
+    background: url(.jpg);
+    mix-blend-mode: normal;
+}
+
+.contenedor2 img {
+/* imagen */
+
+
+    position: absolute;
+    width: 373.16px;
+    height: 323.7px;
+    left: 618.42px;
+    top: 1092.3px;
+
+    background: url(.jpg);
+}
+
+.contenedor3 img {
+/* imagen */
+
+
+    position: absolute;
+    width: 373.16px;
+    height: 323.7px;
+    left: 1015px;
+    top: 1092px;
+
+    background: url(.jpg);
+}
+
+.contenedor4 img {
+/* imagen */
+
+
+    position: absolute;
+    width: 270px;
+    height: 260px;
+    left: 208px;
+    top: 1696px;
+
+    background: url();
+    border-radius: 0px;
+}
+
+.contenedor7 img {
+/* imagen */
+
+
+    position: absolute;
+    width: 270px;
+    height: 260px;
+    left: 515px;
+    top: 1696px;
+
+    background: url();
+    border-radius: 0px;
+}
+
+.contenedor6 img {
+/* imagen */
+
+
+    position: absolute;
+    width: 270px;
+    height: 260px;
+    left: 822px;
+    top: 1696px;
+
+    background: url();
+    border-radius: 0px;
+}
+
+.contenedor5 img {
+/* imagen */
+
+
+    position: absolute;
+    width: 270px;
+    height: 260px;
+    left: 1115px;
+    top: 1696px;
+
+    background: url();
+    border-radius: 0px;
+}
+
+.tarjeta2 {
+    /* Sección bg */
+    
+    
+        position: absolute;
+        width: 1680px;
+        height: 648px;
+        left: 0px;
+        top: 1510px;
+    
+        background: #F5F4FA;
+}
+
+
+
+
+
+
+.blanco {
+    
+
+        /* Línea */
+        
+        
+            position: absolute;
+            width: 1700px;
+            height: 0px;
+            left: 0px;
+            top: 80px;
+        
+            border: 1px solid #ECECEC;
+}
+
+.btn {
+/* Rectángulo 10 */
+
+
+    position: absolute;
+    width: 83px;
+    height: 38px;
+
+
+    background: #2196F3;
+    /* shadow-middle */
+
+    box-shadow: 0px 3px 1px rgb(255, 255, 255), 0px 1px 2px rgb(255, 255, 255), 0px 2px 2px rgb(255, 255, 255);
+    border-radius: 4px;
+left: 493px;
+    top: 200px;
+    text-decoration: none;
+        text-transform: none;
+    color: #ffffff;
+}
+.btn:hover {
+    background-color: #264660;
+}
+
+#m {
+    /* Todo */
+    
+        font-family: Arial,
+            Helvetica,
+            sans-serif;
+                
+width: 77px;
+    height: 26px;
+    left: calc(50% - 77px/2 + 241.5px);
+    top: calc(50% - 26px/2 - 735px);
+
+
+        font-style: normal;
+        font-weight: 500;
+        font-size: 19px;
+        line-height: 36px;
+  
+    text-align: center;
+        letter-spacing: 0.03em; 
+        color: #ffffff;  
+}
+
+.btn2 {
+/* Rectángulo 10 */
+
+
+    position: absolute;
+    width: 143px;
+    height: 38px;
+
+
+    background: #F5F4FA;
+    /* shadow-middle */
+
+    box-shadow: 0px 3px 1px rgb(255, 255, 255), 0px 1px 2px rgb(255, 255, 255), 0px 2px 2px rgb(255, 255, 255);
+    border-radius: 4px;
+    left: 589px;
+    top: 200px;
+    text-decoration: none;
+    text-transform: none;
+    color: #000000;
+}
+.btn2:hover {
+    background-color: #838d95;
+}
+
+.btn3 {
+    /* Rectángulo 10 */
+
+
+    position: absolute;
+    width: 143px;
+    height: 38px;
+
+
+    background: #F5F4FA;
+    /* shadow-middle */
+
+    box-shadow: 0px 3px 1px rgb(255, 255, 255), 0px 1px 2px rgb(255, 255, 255), 0px 2px 2px rgb(255, 255, 255);
+    border-radius: 4px;
+    left: 743px;
+    top: 200px;
+    text-decoration: none;
+    text-transform: none;
+    color: #000000;
+}
+
+.btn3:hover {
+    background-color: #838d95;
+}
+
+.btn4 {
+    /* Rectángulo 10 */
+
+
+    position: absolute;
+    width: 143px;
+    height: 38px;
+
+
+    background: #F5F4FA;
+    /* shadow-middle */
+
+    box-shadow: 0px 3px 1px rgb(255, 255, 255), 0px 1px 2px rgb(255, 255, 255), 0px 2px 2px rgb(255, 255, 255);
+    border-radius: 4px;
+    left: 895px;
+    top: 200px;
+    text-decoration: none;
+    text-transform: none;
+    color: #000000;
+}
+
+.btn4:hover {
+    background-color: #838d95;
+}
+
+.btn5 {
+    /* Rectángulo 10 */
+
+
+    position: absolute;
+    width: 143px;
+    height: 38px;
+
+
+    background: #F5F4FA;
+    /* shadow-middle */
+
+    box-shadow: 0px 3px 1px rgb(255, 255, 255), 0px 1px 2px rgb(255, 255, 255), 0px 2px 2px rgb(255, 255, 255);
+    border-radius: 4px;
+    left: 1050px;
+    top: 200px;
+    text-decoration: none;
+    text-transform: none;
+    color: #000000;
+}
+
+.btn5:hover {
+    background-color: #838d95;
+}
+
+.imagen {
+/* imagen */
+    position: absolute;
+    width: 370px;
+    height: 294px;
+    left: calc(50% - 370px/2 - 400px);
+    top: 
+}
+
+.imagen2 {
+    /* imagen */
+        position: absolute;
+        width: 370px;
+        height: 294px;
+        left: calc(50% - 370px/2);
+        top: calc(50% - 100px/2 - 109px);
+}
+
+.imagen3 {
+    /* imagen */
+        position: absolute;
+        width: 370px;
+        height: 294px;
+        left: calc(50% - 370px/2 + 400px);
+        top: calc(50% - 100px/2 - 109px);
+}
+.imagen4 {
+/* imagen */
+    position: absolute;
+    width: 370px;
+    height: 294px;
+    left: calc(50% - 370px/2 - 400px);
+    top: 800px;
+}
+
+.imagen5 {
+    /* imagen */
+    position: absolute;
+        width: 370px;
+        height: 294px;
+        left: calc(50% - 370px/2);
+    top: 800px;
+}
+
+.imagen6 {
+/* imagen */
+    position: absolute;
+    width: 370px;
+    height: 294px;
+    left: calc(50% - 370px/2 + 400px);
+        top: 800px;
+}
+
+.imagen7 {
+/* imagen */
+    position: absolute;
+    width: 370px;
+    height: 294px;
+    left: calc(50% - 370px/2 - 400px);
+    top: 1400px;
+}
+.imagen8 {
+    /* imagen */
+position: absolute;
+    width: 370px;
+    height: 294px;
+    left: calc(50% - 370px/2);
+    top: 1400px;
+}
+
+.imagen9 {
+    /* imagen */
+    position: absolute;
+        width: 370px;
+        height: 294px;
+        left: calc(50% - 370px/2 + 400px);
+    top: 1400px;
+}
+
+#letra {
+    /* Tecnoduck */
+    
+    
+    position: absolute;
+        
+        
+        left: 262px;
+        top: 600px;
+    
+        font-family: 'Roboto', sans-serif;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 18px;
+        
+        /* identical to box height, or 200% */
+    
+        letter-spacing: 0.06em;
+    
+        color: #212121;
+}
+#chica {
+/* Sitio-web */
+
+
+    position: absolute;
+    width: 322px;
+    height: 30px;
+    left: calc(50% - 322px/2 - 400px);
+    top: 670px;
+
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    
+    /* identical to box height, or 188% */
+
+    letter-spacing: 0.03em;
+
+    color: #757575;
+}
+
+#letra2 {
+    /* Póster de Nueva Orleans vs Estrella Dorada */
+    
+    
+        position: absolute;
+        width: 322px;
+        height: 72px;
+        left: calc(50% - 322px/2);
+        top: 600px;
+    
+    font-family: 'Roboto', sans-serif;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 18px;
+       
+        /* or 200% */
+    
+        letter-spacing: 0.06em;
+    
+        color: #212121;
+}
+#letra22 {
+position: absolute;
+    width: 322px;
+    height: 72px;
+    left: calc(50% - 322px/2);
+    top: 670px;
+
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    
+    /* or 200% */
+
+    letter-spacing: 0.06em;
+
+    color: #212121;
+}
+
+#letra3 {
+    /* Restaurante de Mariscos */
+    
+    
+        position: absolute;
+        width: 322px;
+        height: 36px;
+        left: calc(50% - 322px/2 + 400px);
+        top: 600px;
+    
+        font-family: 'Roboto', sans-serif;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 18px;
+        
+        /* identical to box height, or 200% */
+    
+        letter-spacing: 0.06em;
+    
+        color: #212121;
+}
+
+#chica2 {
+/* Aplicaciones */
+
+
+    position: absolute;
+    width: 322px;
+    height: 30px;
+    left: calc(50% - 322px/2 + 400px);
+    top: 670px;
+
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    
+    /* identical to box height, or 188% */
+
+    letter-spacing: 0.03em;
+
+    color: #757575;
+}
+
+#letra4 {
+/* Proyecto Prime */
+
+
+    position: absolute;
+    width: 322px;
+    height: 36px;
+    left: calc(50% - 322px/2 - 400px);
+    top: 1145px;
+
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+  
+    /* identical to box height, or 200% */
+
+    letter-spacing: 0.06em;
+
+    color: #212121;
+}
+#chica3 {
+    /* Marketing */
+    
+    
+        position: absolute;
+        width: 322px;
+        height: 30px;
+        left: calc(50% - 322px/2 - 400px);
+        top: 1215px;
+    
+        font-family: 'Roboto', sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        
+        /* identical to box height, or 188% */
+    
+        letter-spacing: 0.03em;
+    
+        color: #757575;
+}
+
+#letra5 {
+/* Proyecto Cajas */
+
+
+    position: absolute;
+    width: 322px;
+    height: 36px;
+    left: calc(50% - 322px/2);
+    top: 1145px;
+
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    
+    /* identical to box height, or 200% */
+
+    letter-spacing: 0.06em;
+
+    color: #212121;
+
+}
+#chica5 {
+    /* Aplicaciones */
+    
+    
+        position: absolute;
+        width: 322px;
+        height: 30px;
+        left: calc(50% - 322px/2);
+        top: 1215px;
+    
+        font-family: 'Roboto', sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        
+        /* identical to box height, or 188% */
+    
+        letter-spacing: 0.03em;
+    
+        color: #757575;
+}
+ #letra6 {
+    /* La inspiración no tiene límites */
+    
+    
+        position: absolute;
+        width: 322px;
+        height: 36px;
+        left: calc(50% - 322px/2 + 400px);
+        top: 1145px;
+    
+        font-family: 'Roboto', sans-serif;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 18px;
+        
+        /* identical to box height, or 200% */
+    
+        letter-spacing: 0.06em;
+    
+        color: #212121;
+ }
+ #chica6 {
+    /* Sitio-web */
+    
+    
+        position: absolute;
+        width: 322px;
+        height: 30px;
+        left: calc(50% - 322px/2 + 400px);
+        top: 1215px;
+    
+        font-family: 'Roboto', sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        
+        /* identical to box height, or 188% */
+    
+        letter-spacing: 0.03em;
+    
+        color: #757575;
+ }
+
+ #letra7 {
+    /* Edición Limitada */
+    
+    
+        position: absolute;
+        width: 322px;
+        height: 36px;
+        left: calc(50% - 322px/2 - 400px);
+        top: 1735px;
+    
+        font-family: 'Roboto', sans-serif;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 18px;
+       
+        /* identical to box height, or 200% */
+    
+        letter-spacing: 0.06em;
+    
+        color: #212121;
+ }
+ #chica7 {
+    /* Diseño */
+    
+    
+        position: absolute;
+        width: 322px;
+        height: 30px;
+        left: calc(50% - 322px/2 - 400px);
+        top: 1805px;
+    
+        font-family: 'Roboto', sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        
+        /* identical to box height, or 188% */
+    
+        letter-spacing: 0.03em;
+    
+        color: #757575;
+ }
+
+ #letra8 {
+    /* Proyecto LAB */
+    
+    
+        position: absolute;
+        width: 322px;
+        height: 36px;
+        left: calc(50% - 322px/2);
+        top: 1735px;
+    
+        font-family: 'Roboto', sans-serif;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 18px;
+       
+        /* identical to box height, or 200% */
+    
+        letter-spacing: 0.06em;
+    
+        color: #212121;
+ }
+ #chica8 {
+    /* Marketing */
+    
+    
+        position: absolute;
+        width: 322px;
+        height: 30px;
+        left: calc(50% - 322px/2);
+        top: 1805px;
+    
+        font-family: 'Roboto', sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        
+        /* identical to box height, or 188% */
+    
+        letter-spacing: 0.03em;
+    
+        color: #757575;
+ }
+
+ #letra9 {
+    /* Negocio en Crecimiento */
+    
+    
+        position: absolute;
+        width: 322px;
+        height: 36px;
+        left: calc(50% - 322px/2 + 400px);
+        top: 1735px;
+    font-family: 'Roboto', sans-serif;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 18px;
+       
+        /* identical to box height, or 200% */
+    
+        letter-spacing: 0.06em;
+    
+        color: #212121;
+ }
+ #chica9 {
+    /* Aplicaciones */
+    
+    
+        position: absolute;
+        width: 322px;
+        height: 30px;
+        left: calc(50% - 322px/2 + 400px);
+        top: 1805px;
+    
+        font-family: 'Roboto', sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        
+        /* identical to box height, or 188% */
+    
+        letter-spacing: 0.03em;
+    
+        color: #757575;
+ }
+
+ .rec {
+    /* contenedor bg */
+    
+    
+        box-sizing: border-box;
+    
+    position: absolute;
+        width: 374px;
+        height: 404px;
+        left: 237px;
+        top: 344px;
+    
+        background: #FFFFFF;
+        border: 1px solid #EEEEEE;
+ }
+
+  .rec2 {
+    /* contenedor bg */
+    
+    
+        box-sizing: border-box;
+    
+    position: absolute;
+        width: 374px;
+        height: 404px;
+        left: 637px;
+        top: 344px;
+    
+        background: #FFFFFF;
+        border: 1px solid #EEEEEE;
+  }
+
+        .rec3 {
+            /* contenedor bg */
+            
+            
+                box-sizing: border-box;
+            
+            position: absolute;
+                width: 374px;
+                height: 404px;
+                left: 1037px;
+                top: 344px;
+            
+                background: #FFFFFF;
+                border: 1px solid #EEEEEE;
+        }
+
+        .rec4 { 
+            /* contenedor bg */
+            
+                box-sizing: border-box;
+            
+                position: absolute;
+                    width: 374px;
+                    height: 404px;
+                    left: 237px;
+                    top: 911px;
+                background: #FFFFFF;
+                border: 1px solid #EEEEEE;
+        }
+
+        .rec5 {
+            /* contenedor bg */
+            
+            
+                box-sizing: border-box;
+            
+            position: absolute;
+                width: 374px;
+                height: 404px;
+                left: 637px;
+                top: 911px;
+            
+                background: #FFFFFF;
+                border: 1px solid #EEEEEE;
+        }
+
+        .rec6 {
+            /* contenedor bg */
+            
+            
+                box-sizing: border-box;
+            
+                position: absolute;
+                    width: 374px;
+                    height: 404px;
+                    left: 1037px;
+                    top: 911px;
+
+                background: #FFFFFF;
+                border: 1px solid #EEEEEE;
+        }
+
+        .rec7 {
+            /* contenedor bg */
+            
+            
+                box-sizing: border-box;
+            position: absolute;
+                width: 375px;
+                height: 415px;
+                left: 236px;
+                top: 1442px;
+            
+                background: #FFFFFF;
+                border: 1px solid #EEEEEE;
+        }
+
+        .rec8 {
+            /* contenedor bg */
+            
+            
+                box-sizing: border-box;
+
+            position: absolute;
+                width: 374px;
+                height: 415px;
+                left: 636px;
+                top: 1442px;
+
+                background: #FFFFFF;
+                border: 1px solid #EEEEEE;
+        }
+
+        .rec9 {
+            /* contenedor bg */
+            
+            
+                box-sizing: border-box;
+            
+            position: absolute;
+                width: 374px;
+                height: 415px;
+                left: 1036px;
+                top: 1442px;
+            
+                background: #FFFFFF;
+                border: 1px solid #EEEEEE;
+        }
+
+#encuentranos-en {
+    position: absolute;
+        width: 
+        height: 16px;
+        left: 516px;
+        top: 13px;
+    
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 7000;
+        font-size: 14px;
+        line-height: 16px;
+        letter-spacing: 0.1em;
+        text-transform: uppercase;
+    
+        color: #FFFFFF;
+  
+}
+.buttons {
+    position: absolute;
+        left: 255%;
+        right: -0.16%;
+        top: 40%;
+        bottom: 40%;
+        min-width: 70px;
+        display: flex;
+        justify-content: space-around;
+        min-height: 8vh;
+        min-width: 1vh;
+}
+
+.buttons a {
+    text-decoration: none;
+    font-size: 42px;
+    min-width: 8vh;
+    line-height: 68px;
+    text-align: center;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 50%;
+    
+}
+
+.buttons2 {
+    position: absolute;
+        left: 255%;
+        right: -0.16%;
+        top: 40%;
+        bottom: 40%;
+        min-width: 70px;
+        display: flex;
+        justify-content: space-around;
+        min-height: 8vh;
+        min-width: 19vh;
+        
+}
+.buttons2 a {
+    text-decoration: none;
+    font-size: 42px;
+    min-width: 8vh;
+    line-height: 75px;
+    text-align: center;
+    background: #2196F3;
+    border-radius: 50%;
+}
+
+.buttons3 {
+    position: absolute;
+    left: 255%;
+    right: -0.16%;
+    top: 40%;
+    bottom: 40%;
+    min-width: 70px;
+    display: flex;
+    justify-content: space-around;
+    min-height: 8vh;
+    min-width: 37vh;
+
+}
+
+.buttons3 a {
+    text-decoration: none;
+    font-size: 42px;
+    min-width: 8vh;
+    line-height: 75px;
+    text-align: center;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 50%;
+}
+
+.buttons4 {
+    position: absolute;
+    left: 255%;
+    right: -0.16%;
+    top: 40%;
+    bottom: 40%;
+    min-width: 70px;
+    display: flex;
+    justify-content: space-around;
+    min-height: 8vh;
+    min-width: 55vh;
+
+}
+
+.buttons4 a {
+    text-decoration: none;
+    font-size: 42px;
+    min-width: 8vh;
+    line-height: 75px;
+    text-align: center;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 50%;
+}
